@@ -36,6 +36,6 @@ THEN the password is either displayed in an alert or written to the page.
 
 ## Links
 
-[GitHub Repo]()
+[GitHub Repo](https://github.com/kitkatt17/generator-of-passwords)
 
-[Deployed Link]()
+[Deployed Link](https://kitkatt17.github.io/generator-of-passwords/)
